@@ -7,6 +7,8 @@
 ![3rd](https://github.com/user-attachments/assets/a4e5ba9c-7f53-4a51-944a-0971025cf45d)
 
 
+Around n = 1800, the blue line starts showing more fluctuations and diverges from the red polynomial fit. Indicating that the time line does not align with the predicted polynomial curve.
+n_0  is typically the point where the behavior of the measured data (blue line) starts to deviate significantly from the expected trend (red curve). That's why I selected n_0 approx 1800.
 ![4th_finalll](https://github.com/user-attachments/assets/96ac0bbe-198c-4cc6-a762-595d7181a424)
 
 
