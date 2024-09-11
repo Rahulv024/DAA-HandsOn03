@@ -5,6 +5,7 @@
 
 
 3)![3rd](https://github.com/user-attachments/assets/a4e5ba9c-7f53-4a51-944a-0971025cf45d)
+graph ->![12](https://github.com/user-attachments/assets/9303f290-d67b-44fd-8fe2-525fedc7e25e)
 
 
 4)Around n = 1800, the blue line starts showing more fluctuations and diverges from the red polynomial fit. Indicating that the time line does not align with the predicted polynomial curve.
