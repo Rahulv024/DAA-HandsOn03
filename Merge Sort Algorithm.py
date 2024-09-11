@@ -34,7 +34,7 @@ def print_array(array):
     print()
 
 if __name__ == "__main__":
-    array = [38, 27, 43, 3, 9, 82, 10]
+    array = [45, 17, 34, 1, 5, 90, 81]
     print("The Original array is:")
     print_array(array)
 
